@@ -1,6 +1,6 @@
 {
   "name": "git-newspaper",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Generate a Victorian broadsheet newspaper from any git repository's history",
   "main": "src/index.js",
   "scripts": {
